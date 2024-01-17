@@ -18,7 +18,7 @@ if (confirm("Would you like to include lowercase letters?")) {
 if (confirm("Would you like to include numbers?")) {
   charset += '0123456789';
 }
-// Uppercase Prompt
+// Special Characters Prompt
 if (confirm("Would you like to include special charcters?")) {
   charset += '!@#$%^&*()_-+=?<>';
 }
