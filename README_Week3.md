@@ -5,7 +5,7 @@ Modified existing Javascript starter code to allow a user to push a button and  
 ## Usage
 Users are prompted on whether what types of characters they want in their password  (Uppercase, lowercase, numbers, and special characters)as well as how long they would like their password to be. (Between 8 - 128 characters)
 
-##Password Generator Website Screenshots
+Password Generator Website Screenshots
 <img alt="First Password Prompt" src=https://github.com/AndrewBlanchard/Week-3-Challenge/blob/master/Assets/PW%20Prompt%201.png>
 <img alt="Second Password Prompt" src=https://github.com/AndrewBlanchard/Week-3-Challenge/blob/master/Assets/PW%20Prompt%202.png>
 <img alt="Third Password Prompt" src=https://github.com/AndrewBlanchard/Week-3-Challenge/blob/master/Assets/PW%20Prompt%203.png>
@@ -13,7 +13,7 @@ Users are prompted on whether what types of characters they want in their passwo
 <img alt="Fifth Password Prompt" src=https://github.com/AndrewBlanchard/Week-3-Challenge/blob/master/Assets/PW%20Prompt%205.png>
 <img alt="Generated Password" src=https://github.com/AndrewBlanchard/Week-3-Challenge/blob/master/Assets/Generated%20PW.png>
 
-##JavaScript Code
+JavaScript Code
 <img alt="JavaScript Code for Password Generator" src=https://github.com/AndrewBlanchard/Week-3-Challenge/blob/master/Assets/Week%203%20JavaScript%20Code%20.png> 
 
 ## Sources
